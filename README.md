@@ -1,1 +1,1 @@
-# nyt-dash
+# NYT Dash (2022)
